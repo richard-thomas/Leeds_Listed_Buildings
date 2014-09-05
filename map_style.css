@@ -54,6 +54,16 @@ body {
                           to prevent overlap with leftbox */
 }
 
+.mobileBox {
+   width: auto;   /* Will go up to rightbox.margin from container */
+   height: 100%;
+   min-width: 600px;
+   padding: 0px;
+   margin: 0px;
+   /* margin-left: 330px; */ /* Min of (leftbox.width + 2*leftbox.margin)
+                          to prevent overlap with leftbox */
+}
+
 /* Listed Building Key Panel (on left, at top) */
 .key {
    height: 220px;
