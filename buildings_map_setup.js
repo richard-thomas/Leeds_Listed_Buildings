@@ -1,7 +1,7 @@
 var buildingMap; // The map object
-var myCentreLat = 53.8;
-var myCentreLng = -1.55;
-var initialZoom = 11;
+var myCentreLat = 53.7962;
+var myCentreLng = -1.5410;
+var initialZoom = 17;
 var currentInfoWindow = null; // Currently open pop-up information window
 var markerList = [];          // Array of all map markers
 var infoWindowList = [];      // List of all infoWindow objects
