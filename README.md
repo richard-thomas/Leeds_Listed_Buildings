@@ -1,6 +1,11 @@
-Leeds_Listed_Buildings
+Leeds Listed Buildings
 ======================
 
-Web mapping of buildings in Leeds that are listed by English Heritage
+This is a single-page "web app" written in HTML5/CSS3/JavaScript which
+implements an interactive map for exploring "Listed Buildings" in Leeds
+demonstrating use of the Google Maps JavaScript API.
+For each building it provides links to further images and details in
+the online Historic England and English Heritage web sites.
 
-http://richard-thomas.github.io/Leeds_Listed_Buildings/index.html
+The app can be viewed via the link:
+* http://richard-thomas.github.io/Leeds_Listed_Buildings/index.html
